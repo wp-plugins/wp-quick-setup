@@ -17,6 +17,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
+
+
 Get your Wordpress installation ready by simply pressing one click. 
 
 In one click of a button you can do:

@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Quick Setup
 Plugin URL: http://antonhoelstad.dk
-Description: This plugin makes it as easy as possible to start up a new Wordpress blog. Get the correct permalink settings, delete dummy content (plugin, sample page, sample post and sample comment), active Akismet plugin and disable user registration - all in one click of a button.
+Description: This plugin makes it as easy as possible to start up a new Wordpress blog. Fix all the issues with one click of a button.
 Version: 1.0
 Author: Anton Hoelstad
 Author URL: http://antonhoelstad.dk
