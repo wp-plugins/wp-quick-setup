@@ -1,16 +1,20 @@
 ﻿=== WP Quick Setup ===
 
 
-Contributors: Anton Hoelstad
+Contributors: AntonHoelstad
 
 
 Donate link: http://antonhoelstad.dk
+
+Author URI: https://profiles.wordpress.org/antonhoelstad
 
 
 Tags: quick, setup, kickstart, efficiency
 
 
 License: GPLv2 or later
+
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
