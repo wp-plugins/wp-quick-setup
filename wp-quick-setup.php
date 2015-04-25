@@ -4,7 +4,7 @@ Plugin Name: WP Quick Setup
 Plugin URL: http://antonhoelstad.dk
 Description: This plugin makes it as easy as possible to start up a new Wordpress blog. Fix all the issues with one click of a button.
 Version: 1.0
-Author: Anton Hoelstad
+Author: AntonAKH
 Author URL: http://antonhoelstad.dk
 */
 add_action( 'admin_footer', 'juqs_action_javascript' ); // Write our JS below here
