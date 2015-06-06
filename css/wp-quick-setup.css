@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3 Jun, 2015, 11:43:43 AM
+    Author     : suraj
+*/
+.header {
+    background-color: #0073AA;
+    padding:20px;
+    left: 0;
+    right: 0;
+}
+
+.jetpack-modules {
+    display: inline-block;
+}
+
+.jp-text {
+    text-align: center;
+}
+
+.logo {
+    font-family: "Open Sans",sans-serif;
+    font-size: 35px;
+    line-height: 1.4em;
+    color: #fff;
+}
+
+.jetpack-modules > a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.jetpack-modules > a:hover {
+    text-decoration: none;
+}
+
+.jp-button--settings{
+    background: #93b45f;
+    color: #e8eedf;
+    padding: 5px 15px 5px 15px;
+}
+
+.outer-wrapper{
+    margin-left: -20px;
+    background-color: #fff;
+    min-height: 700px;
+}
+
+.wp-easy-setup .form-table{
+    margin-left: 50px;
+}
+
