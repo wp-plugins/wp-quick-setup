@@ -3,7 +3,7 @@
 /*
   Plugin Name: WP Quick Setup
   Plugin URI: http://antonhoelstad.dk
-  Description: This plugin makes it as easy as possible to start up a new WordPress blog. Fix all the common issues with one click of a button, save 30 minutes of you life, and get started on what really matters.
+  Description: This plugin makes it as easy as possible to start up a new WordPress blog. Fix all the common issues with one click of a button.
   Version: 2.0
   Author: Anton Hoelstad
   Author URI: http://antonhoelstad.dk
