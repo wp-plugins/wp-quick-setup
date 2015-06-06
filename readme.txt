@@ -28,24 +28,34 @@ Get your Wordpress installation ready by simply pressing one click.
 = In one click of a button you can do: =
 * Change the permalink structure to /%postname%/
 
+
 * Deselect the option "Organize my uploads in to month and year based folders"
 
 * Delete the "Hello Dolly" plugin
 
 * Activate the Akismet plugin
+
 * Delete sample post, sample page and sample comment (dummy content)
+
 * Empty the trash for deleted dummy content: plugin, page, post and comment
+
 * Delete satandard tehems, except for the one that is used
+
 * Select the preferred domain (www or non-www)
 
 * Select frontpage type (static page or blog posts)
 
 * Select to show full text or summary of blog posts on post page
+
 * Select timezone
 
+
 * Select date and time format
+
 * Gives the option to disable user registration
+
 * Gives the option to disallow search engines to crawl the website
+
 * Create blank pages and/or categories of your choice
 
 = Besides this you also have the option to bulk install and activate popular plugins such as: =
@@ -75,12 +85,8 @@ And just like that, you've saved several minutes (if not hours) on installing yo
 If you have any ideas for the plugin and future updates, please leave your feedback and suggestions.
 
 == Installation ==
-
-
 1. Upload `wp-quick-setup.zip` to the `/wp-content/plugins/` directory
-
 2. Activate the plugin through the 'Plugins' menu in WordPress
-
 3. Go to the plugin interface through Settings -> Wp Quick Setup
 4. Select and deselect the options you want, and click on the button
 5. Enjoy saving a lot of time when you start up a new Wordpress blog!
