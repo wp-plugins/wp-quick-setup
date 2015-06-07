@@ -39,7 +39,7 @@ Get your Wordpress installation ready by simply pressing one click.
 
 * Empty the trash for deleted dummy content: plugin, page, post and comment
 
-* Delete satandard tehems, except for the one that is used
+* Delete standard themes, except for the one that is used
 
 * Select the preferred domain (www or non-www)
 
